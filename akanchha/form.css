@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(172,222,233,255);
+}
+.res{
+    width: 11rem;
+    height:10rem;
+    border-radius: 50%;
+}
+#name{
+    margin-left:80%;
+    
+}
+.borderless td,th{
+    border: none;
+}
+.b{
+    border-bottom: black 1px solid;
+}
+#s{
+    margin-left: 80%;
+    border red 2px solid;
+    width 20%;
+}
